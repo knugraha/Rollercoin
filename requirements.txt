@@ -1,4 +1,4 @@
-opencv-python==4.4.0.44
+opencv-python==4.8.1.78
 keyboard~=0.13.5
 Pillow~=8.0.1
 numpy==1.19.2
